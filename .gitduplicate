@@ -9,5 +9,5 @@
 .DS_Store
 coverage.out
 
-# Ignore builds
+# Auto builds
 dist/
